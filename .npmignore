@@ -1,0 +1,12 @@
+/.github
+/.eslintignore
+/.eslintrc.yml
+/coverage
+/jest.config.js
+/makefile
+/package-lock.json
+/src
+/tests
+/tsconfig.json
+/yarn-error.log
+/yarn.lock
