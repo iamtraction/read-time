@@ -4,7 +4,7 @@
     "description": "Calculate the time it'd take to read any text.",
     "main": "./dist/index.js",
     "typings": "./typings/index.d.ts",
-    "repository": "https://github.com/TheBastionBot/Tesseract.git",
+    "repository": "https://github.com/iamtraction/read-time",
     "author": "Sankarsan Kampa (iamtraction)",
     "license": "MPL-2.0",
     "scripts": {
